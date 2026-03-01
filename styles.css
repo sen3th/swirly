@@ -1,7 +1,16 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: bebas-neue-regular, sans-serif;
     background-color: #f0f8ff;
     color: #333;
     margin: 20px;
     background-color: aquamarine;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    font-family: "Bebas Neue", sans-serif;
+    background-color: aquamarine;
+    color: #333;
+    margin: 20px;
 }
